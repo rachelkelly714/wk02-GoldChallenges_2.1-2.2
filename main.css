@@ -1,0 +1,35 @@
+/* STYLE HERE */
+
+#imageOne{
+    position: absolute;
+    top: 1%;
+    left: 35%; 
+    border-style: solid;
+    border-width: 5px;
+    border-bottom: 5px;
+    border-top: 5px; 
+    border-left: 5px;
+    border-right: 5px;
+    border-color: black;
+    border-radius: 5;
+    height: 200px;
+    width: auto;
+
+    
+}
+
+#imageTwo{
+        position: relative;
+        top: 35%;
+        left: 10%; 
+        border-style: solid;
+        border-width: 5px;
+        border-bottom: 5px;
+        border-top: 5px;
+        border-left: 5px;
+        border-right: 5px;
+        border-color: black;
+        height: 200px;
+        border-radius: 2;
+        width: auto;
+    }
